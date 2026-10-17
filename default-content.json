@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "n": "UI Design",
+      "p": "Design",
+      "v": 90
+    },
+    {
+      "n": "HTML & CSS",
+      "p": "Development",
+      "v": 90
+    },
+    {
+      "n": "JavaScript",
+      "p": "Development",
+      "v": 60
+    },
+    {
+      "n": "React",
+      "p": "Development",
+      "v": 60
+    },
+    {
+      "n": "Figma",
+      "p": "Design",
+      "v": 90
+    },
+    {
+      "n": "Branding",
+      "p": "Design",
+      "v": 30
+    }
+  ],
+  "certs": [
+    {
+      "t": "Responsive Web Design",
+      "i": "freeCodeCamp",
+      "y": "2024"
+    },
+    {
+      "t": "JavaScript Algorithms",
+      "i": "freeCodeCamp",
+      "y": "2024"
+    },
+    {
+      "t": "UI/UX Design Foundations",
+      "i": "Google / Coursera",
+      "y": "2023"
+    },
+    {
+      "t": "React Essentials",
+      "i": "Meta / Coursera",
+      "y": "2025"
+    }
+  ],
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "instagram": "",
+    "twitter": "",
+    "email": ""
+  },
+  "about": null
+}

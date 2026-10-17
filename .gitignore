@@ -1,0 +1,6 @@
+data/auth.json
+data/content.json
+data/uploads/*
+!data/uploads/.gitkeep
+node_modules
+.env
